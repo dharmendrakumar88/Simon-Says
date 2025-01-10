@@ -1,6 +1,7 @@
 # new project
 
-This project is created from local.
+Simon Says Game.
+
 
 Created by : Dharmendra Kumar
 

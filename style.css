@@ -1,0 +1,34 @@
+body{
+    text-align:center;
+}
+.btnbox{
+height:200px;
+width:200px;
+border-radius:20%;
+border: 8px solid black;
+margin:1.75rem;
+}
+.btnboxpapa{
+    display:flex;
+    justify-content:center;
+}
+
+.red{
+    background-color: rgb(200,32,33);
+}
+.yellow{
+    background-color: rgb(200,222,33);
+}
+.green{
+    background-color: rgb(20,232,33);
+}
+.blue{
+    background-color: rgb(20,32,233);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: black;
+}
+
