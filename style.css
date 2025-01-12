@@ -31,4 +31,11 @@ margin:1.75rem;
 .userflash{
     background-color: black;
 }
+@media(max-width:400px){
+    .btnbox{
+        height:120px;
+        width:120px;
+    }
+}
+
 
